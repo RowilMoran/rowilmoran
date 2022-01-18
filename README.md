@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**RowilMoran/rowilmoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I'm [Rowil Moran](https://rowil.netlify.app/)👋
+I'm a self-thought developer based in Argentina who likes new challenges and solving problems. I started my journey of switching careers a while ago. What I didn't know was how much I would enjoy coding.<br>
+## 📫 How to reach me: 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rowil-moran-995219198/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning ReactJS
+- 👯 I’m looking forward to starting my first opportunity in the tech industry.
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.scss`, `figma`
+
+
+
+
+
+
+
+
+ 
