@@ -4,7 +4,7 @@ I'm a self-thought developer based in Argentina who likes new challenges and sol
 
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking forward to starting my first opportunity in the tech industry.
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.scss`, `figma`
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.scss`, `figma`, `React`
 
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rowil-moran-995219198/)
